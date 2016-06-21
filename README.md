@@ -4,3 +4,6 @@ Hi, my name is Marcus and I am pleased to introduce myself to the Github communi
 
 
 I live in Singapore
+
+
+I love reading and programming.
